@@ -1,6 +1,6 @@
 import java.util.* ;
 
-class HelloWorld {
+class Array2D {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int rowsCount = sc.nextInt();
